@@ -1,3 +1,4 @@
+<?php
 /**
  * WooCommerce: Use Long Description in the Short Description Spot (+ optional search tweak)
  * Theme-agnostic. Tested with Astra + Spectra.
